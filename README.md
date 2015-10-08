@@ -5,6 +5,11 @@
 [![License](https://img.shields.io/cocoapods/l/MFActivityView.svg?style=flat)](http://cocoapods.org/pods/MFActivityView)
 [![Platform](https://img.shields.io/cocoapods/p/MFActivityView.svg?style=flat)](http://cocoapods.org/pods/MFActivityView)
 
+An alternative for displaying activity information in a UIAlertView.
+
+This view is a subclass of [DejalViewController](https://github.com/Dejal/DejalActivityView).
+
+
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -22,7 +27,7 @@ pod "MFActivityView"
 
 ## Author
 
-Jakub Darowski, jakub.darowski@mediaflex.pl
+Mediaflex Sp. z o. o., biuro@mediaflex.pl
 
 ## License
 

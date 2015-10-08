@@ -1,0 +1,14 @@
+PODS:
+  - MFActivityView (0.1.0)
+
+DEPENDENCIES:
+  - MFActivityView (from `../`)
+
+EXTERNAL SOURCES:
+  MFActivityView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MFActivityView: 0aabda2361375c64d231d8620568dec7c2493dea
+
+COCOAPODS: 0.38.2
