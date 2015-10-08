@@ -1,4 +1,4 @@
-[![CI Status](http://img.shields.io/travis/MediaflexPL/MFActivityView.svg?style=flat)](https://travis-ci.org/Jakub Darowski/MFActivityView)
+[![CI Status](http://img.shields.io/travis/MediaflexPL/MFActivityView.svg?style=flat)](https://travis-ci.org/MediaflexPL/MFActivityView)
 [![Version](https://img.shields.io/cocoapods/v/MFActivityView.svg?style=flat)](http://cocoapods.org/pods/MFActivityView)
 [![License](https://img.shields.io/cocoapods/l/MFActivityView.svg?style=flat)](http://cocoapods.org/pods/MFActivityView)
 [![Platform](https://img.shields.io/cocoapods/p/MFActivityView.svg?style=flat)](http://cocoapods.org/pods/MFActivityView)
