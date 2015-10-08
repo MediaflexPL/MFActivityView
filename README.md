@@ -17,7 +17,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 MFActivityView is tested under iOS 7.0 and requires [DejalViewController](https://github.com/Dejal/DejalActivityView) to run. [CocoaPods](http://cocoapods.org) will handle that for you if you choose to use them.
 
 ## Installation
-
+ARC is mandatory.
 MFActivityView is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
