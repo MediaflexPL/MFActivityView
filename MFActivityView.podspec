@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = "MFActivityView"
   s.version          = "0.1.0"
-  s.summary          = "A short description of MFActivityView."
+  s.summary          = "An alternative for displaying activity information in a UIAlertView."
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,11 +17,13 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = <<-DESC
+    A small addition for [DejalViewController](https://github.com/Dejal/DejalActivityView). It enables the bezel view show/remove animation to have custom duration.
+
                        DESC
 
   s.homepage         = "https://github.com/MediaflexPL/MFActivityView"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
-  s.license          = 'MIT'
+  s.license          = 'BSD 2-clause'
   s.author           = { "Jakub Darowski" => "jakub.darowski@mediaflex.pl" }
   s.source           = { :git => "https://github.com/MediaflexPL/MFActivityView.git", :tag => s.version.to_s }
 
@@ -35,5 +37,5 @@ Pod::Spec.new do |s|
 
   s.public_header_files = 'Pod/Classes/**/*.h'
   s.frameworks = 'UIKit'
-  s.dependency 'AFNetworking', '~> 2.3'
+  s.dependency 'DejalActivityView', '~> 1.2'
 end
