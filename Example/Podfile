@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'MFActivityView_Example', :exclusive => true do
+  pod "MFActivityView", :path => "../"
+end
+
+target 'MFActivityView_Tests', :exclusive => true do
+  pod "MFActivityView", :path => "../"
+
+  
+end
