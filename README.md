@@ -1,5 +1,3 @@
-# MFActivityView
-
 [![CI Status](http://img.shields.io/travis/Jakub Darowski/MFActivityView.svg?style=flat)](https://travis-ci.org/Jakub Darowski/MFActivityView)
 [![Version](https://img.shields.io/cocoapods/v/MFActivityView.svg?style=flat)](http://cocoapods.org/pods/MFActivityView)
 [![License](https://img.shields.io/cocoapods/l/MFActivityView.svg?style=flat)](http://cocoapods.org/pods/MFActivityView)
@@ -31,4 +29,5 @@ Mediaflex Sp. z o. o., biuro@mediaflex.pl
 
 ## License
 
-MFActivityView is available under the MIT license. See the LICENSE file for more info.
+MFActivityView is available The BSD 2-Clause License. See the LICENSE file for more info.
+
