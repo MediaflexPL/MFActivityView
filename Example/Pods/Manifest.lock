@@ -1,0 +1,17 @@
+PODS:
+  - DejalActivityView (1.2)
+  - MFActivityView (0.1.0):
+    - DejalActivityView (~> 1.2)
+
+DEPENDENCIES:
+  - MFActivityView (from `../`)
+
+EXTERNAL SOURCES:
+  MFActivityView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DejalActivityView: 94d85757728a02cbb32445fcf6dfba17dc1e7393
+  MFActivityView: 434fb4fbed2d6289cf9db34cd60d57b43d34efa5
+
+COCOAPODS: 0.38.2

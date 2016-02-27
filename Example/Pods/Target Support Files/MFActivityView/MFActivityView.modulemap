@@ -1,0 +1,6 @@
+framework module MFActivityView {
+  umbrella header "MFActivityView-umbrella.h"
+
+  export *
+  module * { export * }
+}
